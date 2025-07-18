@@ -2,6 +2,8 @@
 > sql에서 csv를 뽑는 방법입니다.
 
 ## 기본 조건
+⭐️ main.py의 PASSWORD를 본인의 비밀번호로 바꾸기
+
 ```
 # 가상환경 세팅
 python -m venv .venv
